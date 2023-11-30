@@ -2,7 +2,7 @@
 
 Explore the power of data through captivating visualizations! 📊✨
 
-In this repository, I bring data to life using Tableau, weaving stories through vibrant and insightful visuals. 🎨 Dive into the world of [your project's theme/niche] and witness the beauty of information unfolding.
+In this repository, I bring data to life using Tableau, weaving stories through vibrant and insightful visuals. 🎨 Dive into the world of Data Analysis and witness the beauty of information unfolding.
 
 ## Why Explore?
 
