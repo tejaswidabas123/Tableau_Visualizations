@@ -12,11 +12,17 @@ In this repository, I bring data to life using Tableau, weaving stories through 
 - 🚀 Collaborate and contribute to a growing repository of knowledge.
 
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(1).png)
-![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(1).png)
+
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Customer%20Analysis.png)
+
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(2).png)
+
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201.png)
+
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/IMDb%20Movie%20Dashboard.png)
+
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Netflix.png)
+
 ![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Visualising%20Likert%20Scales.png)
 
 ## Getting Started
