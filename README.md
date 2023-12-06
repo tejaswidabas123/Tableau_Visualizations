@@ -11,6 +11,14 @@ In this repository, I bring data to life using Tableau, weaving stories through 
 - 🎓 Learn from clear and dynamic visual representations.
 - 🚀 Collaborate and contribute to a growing repository of knowledge.
 
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(1).png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(1).png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201%20(2).png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Dashboard%201.png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/IMDb%20Movie%20Dashboard.png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Netflix.png)
+![Dashboard Image](https://github.com/tejaswidabas123/Tableau_Visualizations/blob/main/Visualising%20Likert%20Scales.png)
+
 ## Getting Started
 
 To view a specific project, navigate to the corresponding folder and explore the associated Tableau workbook. Each project may include additional information and context in its respective directory.
